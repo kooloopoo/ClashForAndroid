@@ -1,3 +1,5 @@
-# ClashForAndroid
-ClashForAndroid流量信息显示
-在 [ClashForAndroid](https://github.com/Kr328/ClashForAndroid) 上添加代码实现剩余流量套餐的功能，辣鸡技术实现的，将就着用一下
+# ClashForAndroid流量信息显示<br>
+在 [ClashForAndroid](https://github.com/Kr328/ClashForAndroid) 上添加代码实现剩余流量套餐的功能，辣鸡技术实现的，将就着用一下！<br>
+* 使用方式为：点击机场后面的三个点，再点击更新按钮! <br>
+坚持到Kr328 原版的流量统计出现，应该问题不大<br>
+![示例](https://github.com/China-Deng/ClashForAndroid/blob/main/qq_pic_merged_1666937306832.jpg)
