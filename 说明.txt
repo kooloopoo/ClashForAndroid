@@ -1,0 +1,1 @@
+在 https://github.com/Kr328/ClashForAndroid 上添加的屎一样的辣鸡代码实现了显示流量信息的功能
